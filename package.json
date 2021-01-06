@@ -58,7 +58,7 @@
     "react-dom": "^15.0.0 || ^16.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "rollup-plugin-css-only": "^2.0.0"
   }
 }
